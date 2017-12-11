@@ -1,0 +1,641 @@
+"","ResponseID","Finished","MTurkCode","Q_TotalDuration","Age","NativeLang","BeganEnglish","SpeechProb","NP","Rating","ArbCont","Coll","Meas","Quant","FullCont","Type","ItemNr","OneThing","MoreThings"
+"1","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"2","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"3","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"4","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","all.pies","a. One thing",0,0,0,1,0,"Quant",4,1,0
+"5","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","many.clocks","a. One thing",0,0,0,1,0,"Quant",5,1,0
+"7","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.heap.of.blankets","a. One thing",0,1,0,0,0,"Coll",7,1,0
+"8","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.smattering.of.magazines","a. One thing",0,0,1,0,0,"Meas",8,1,0
+"9","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"10","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"11","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.bunch.of.folders","a. One thing",0,0,1,0,0,"Meas",11,1,0
+"12","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"13","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.stack.of.sandwiches","a. One thing",0,1,0,0,0,"Coll",13,1,0
+"14","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"16","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"20","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"21","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"22","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","several.pamphlets","a. One thing",0,0,0,1,0,"Quant",22,1,0
+"23","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","five.baseballs","a. One thing",0,0,0,1,0,"Quant",23,1,0
+"24","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.pile.of.pucks","a. One thing",0,1,0,0,0,"Coll",24,1,0
+"25","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"26","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.couple.of.notepads","a. One thing",0,0,1,0,0,"Meas",26,1,0
+"27","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"28","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"30","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","more.chips","a. One thing",0,0,0,1,0,"Quant",30,1,0
+"31","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"32","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"33","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"34","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"35","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.lot.of.postcards","a. One thing",0,0,1,0,0,"Meas",35,1,0
+"36","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.number.of.bags","a. One thing",0,0,1,0,0,"Meas",36,1,0
+"37","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","a.group.of.llamas","a. One thing",0,1,0,0,0,"Coll",37,1,0
+"40","R_1dAYjciX0xGoI2l",1,106466,1154,33,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"81","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"82","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"83","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"84","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"85","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"87","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"88","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"89","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"90","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"91","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"92","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"93","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"94","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"96","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"100","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"101","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"102","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"103","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"104","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"105","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"106","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"107","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"108","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"110","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"111","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"112","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"113","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"114","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"115","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"116","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"117","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"120","R_1jlIiB96puitlox",1,850725,303,44,"English","English","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"161","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"162","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"163","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"164","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"165","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"167","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"168","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"169","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"170","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"171","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"172","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"173","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"174","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"176","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"180","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"181","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"182","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"183","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"184","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"185","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"186","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"187","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"188","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"190","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"191","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"192","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"193","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"194","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"195","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"196","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"197","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"200","R_216O5WplRvjnKDM",1,181907,166,25,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"241","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"242","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"243","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"244","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"245","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"247","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.heap.of.blankets","a. One thing",0,1,0,0,0,"Coll",7,1,0
+"248","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"249","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"250","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"251","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"252","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"253","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.stack.of.sandwiches","a. One thing",0,1,0,0,0,"Coll",13,1,0
+"254","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"256","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"260","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.collection.of.coins","a. One thing",0,1,0,0,0,"Coll",20,1,0
+"261","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"262","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"263","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"264","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.pile.of.pucks","a. One thing",0,1,0,0,0,"Coll",24,1,0
+"265","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"266","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"267","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"268","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"270","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"271","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"272","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"273","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.troop.of.preschoolers","a. One thing",0,1,0,0,0,"Coll",33,1,0
+"274","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"275","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"276","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"277","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","a.group.of.llamas","a. One thing",0,1,0,0,0,"Coll",37,1,0
+"280","R_2anLNzRi5YtjeAB",1,286032,379,23,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"321","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"322","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"323","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"324","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"325","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"327","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"328","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"329","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"330","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"331","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"332","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"333","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"334","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"336","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"340","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"341","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"342","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"343","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"344","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"345","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"346","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"347","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"348","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"350","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"351","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"352","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"353","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"354","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"355","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"356","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"357","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"360","R_2CiWQpwXu032HFW",1,909745,1568,33,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"401","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"402","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.variety.of.mugs","a. One thing",0,0,1,0,0,"Meas",2,1,0
+"403","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.pack.of.matches","b. More than one thing",0,0,0,0,1,"FullCont",3,0,1
+"404","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"405","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"407","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"408","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"409","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"410","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"411","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"412","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.bottle.of.pills","b. More than one thing",0,0,0,0,1,"FullCont",12,0,1
+"413","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"414","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"416","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"420","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"421","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"422","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"423","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"424","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"425","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"426","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"427","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"428","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"430","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"431","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"432","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"433","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"434","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"435","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"436","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"437","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","a.group.of.llamas","a. One thing",0,1,0,0,0,"Coll",37,1,0
+"440","R_2EhP82k1xQCwAWQ",1,690348,169,24,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"481","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"482","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"483","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"484","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"485","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"487","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"488","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"489","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"490","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"491","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"492","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"493","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"494","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"496","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"500","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"501","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"502","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"503","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"504","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"505","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"506","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"507","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"508","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"510","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"511","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"512","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"513","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"514","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"515","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"516","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"517","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"520","R_2qfMWYJ8JXIsAgf",1,555498,617,54,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"561","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"562","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"563","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"564","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"565","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"567","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"568","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"569","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"570","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"571","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"572","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.bottle.of.pills","b. More than one thing",0,0,0,0,1,"FullCont",12,0,1
+"573","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"574","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"576","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"580","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"581","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"582","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"583","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"584","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"585","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"586","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"587","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"588","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"590","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"591","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"592","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"593","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.troop.of.preschoolers","a. One thing",0,1,0,0,0,"Coll",33,1,0
+"594","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"595","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.lot.of.postcards","a. One thing",0,0,1,0,0,"Meas",35,1,0
+"596","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"597","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"600","R_2rOQ4sSgfBiIZxX",1,461361,276,24,"English","English","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"641","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"642","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"643","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"644","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"645","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"647","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"648","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"649","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"650","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"651","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"652","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"653","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"654","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"656","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"660","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"661","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"662","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"663","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"664","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"665","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"666","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"667","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"668","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"670","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"671","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"672","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"673","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"674","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"675","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"676","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"677","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"680","R_33kvp1EKLs5kDi4",1,808857,316,28,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"721","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"722","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"723","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"724","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"725","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"727","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"728","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"729","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"730","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"731","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"732","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"733","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"734","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"736","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"740","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"741","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"742","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"743","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"744","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"745","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"746","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"747","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"748","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"750","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","more.chips","a. One thing",0,0,0,1,0,"Quant",30,1,0
+"751","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"752","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.sack.of.potatoes","b. More than one thing",0,0,0,0,1,"FullCont",32,0,1
+"753","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"754","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"755","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"756","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"757","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"760","R_3CO84aoP3aGOsog",1,449817,386,37,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"801","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"802","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"803","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"804","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"805","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"807","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.heap.of.blankets","a. One thing",0,1,0,0,0,"Coll",7,1,0
+"808","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"809","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"810","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"811","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.bunch.of.folders","a. One thing",0,0,1,0,0,"Meas",11,1,0
+"812","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.bottle.of.pills","b. More than one thing",0,0,0,0,1,"FullCont",12,0,1
+"813","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.stack.of.sandwiches","a. One thing",0,1,0,0,0,"Coll",13,1,0
+"814","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","fewer.people","a. One thing",0,0,0,1,0,"Quant",14,1,0
+"816","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"820","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.collection.of.coins","a. One thing",0,1,0,0,0,"Coll",20,1,0
+"821","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.ton.of.ties","a. One thing",0,0,0,0,1,"Meas",21,1,0
+"822","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","several.pamphlets","a. One thing",0,0,0,1,0,"Quant",22,1,0
+"823","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"824","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.pile.of.pucks","a. One thing",0,1,0,0,0,"Coll",24,1,0
+"825","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"826","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"827","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"828","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"830","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","more.chips","a. One thing",0,0,0,1,0,"Quant",30,1,0
+"831","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"832","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"833","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"834","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"835","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"836","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"837","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"840","R_3faWPJ6AloBKPyF",1,744834,398,30,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"881","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"882","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"883","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"884","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"885","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"887","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"888","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"889","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"890","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"891","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"892","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"893","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"894","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"896","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"900","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"901","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"902","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"903","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"904","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.pile.of.pucks","a. One thing",0,1,0,0,0,"Coll",24,1,0
+"905","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"906","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"907","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"908","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"910","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"911","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"912","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"913","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"914","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"915","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"916","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"917","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"920","R_3iDLjDcMGW4Cwqi",1,498762,253,23,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"961","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"962","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"963","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"964","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"965","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"967","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"968","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"969","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"970","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"971","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"972","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"973","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"974","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"976","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"980","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"981","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"982","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"983","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"984","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"985","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"986","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"987","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"988","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"990","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"991","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"992","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"993","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"994","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"995","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"996","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"997","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1000","R_3oHP28UPMCppddz",1,440287,635,36,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1041","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"1042","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1043","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.pack.of.matches","b. More than one thing",0,0,0,0,1,"FullCont",3,0,1
+"1044","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1045","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1047","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1048","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1049","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1050","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"1051","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1052","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.bottle.of.pills","b. More than one thing",0,0,0,0,1,"FullCont",12,0,1
+"1053","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1054","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1056","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1060","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"1061","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"1062","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1063","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1064","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1065","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"1066","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1067","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"1068","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1070","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"1071","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"1072","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.sack.of.potatoes","b. More than one thing",0,0,0,0,1,"FullCont",32,0,1
+"1073","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"1074","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"1075","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1076","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1077","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1080","R_3ps4vCSYiumY8zi",1,701914,273,23,"English","1","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1121","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"1122","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1123","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"1124","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1125","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1127","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1128","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1129","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1130","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"1131","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1132","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"1133","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1134","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1136","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1140","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"1141","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"1142","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1143","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1144","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1145","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"1146","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1147","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"1148","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1150","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"1151","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"1152","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"1153","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"1154","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"1155","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1156","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1157","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1160","R_DH40fe4gJym1lrr",1,251758,297,30,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1201","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"1202","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1203","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.pack.of.matches","b. More than one thing",0,0,0,0,1,"FullCont",3,0,1
+"1204","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1205","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1207","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1208","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1209","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1210","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"1211","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1212","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.bottle.of.pills","b. More than one thing",0,0,0,0,1,"FullCont",12,0,1
+"1213","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1214","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1216","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1220","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"1221","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.ton.of.ties","a. One thing",0,0,0,0,1,"Meas",21,1,0
+"1222","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1223","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1224","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1225","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.crate.of.tangerines","b. More than one thing",0,0,0,0,1,"FullCont",25,0,1
+"1226","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1227","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"1228","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1230","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","more.chips","a. One thing",0,0,0,1,0,"Quant",30,1,0
+"1231","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"1232","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.sack.of.potatoes","b. More than one thing",0,0,0,0,1,"FullCont",32,0,1
+"1233","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"1234","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.tube.of.balls","b. More than one thing",0,0,0,1,0,"FullCont",34,0,1
+"1235","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1236","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1237","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1240","R_OCjdssqFeSrPCKZ",1,102465,179,23,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1281","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"1282","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1283","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.pack.of.matches","b. More than one thing",0,0,0,0,1,"FullCont",3,0,1
+"1284","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1285","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1287","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.heap.of.blankets","a. One thing",0,1,0,0,0,"Coll",7,1,0
+"1288","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.smattering.of.magazines","a. One thing",0,0,1,0,0,"Meas",8,1,0
+"1289","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1290","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.matchbox.of.needles","b. More than one thing",0,0,0,0,1,"FullCont",10,0,1
+"1291","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1292","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"1293","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.stack.of.sandwiches","a. One thing",0,1,0,0,0,"Coll",13,1,0
+"1294","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","fewer.people","a. One thing",0,0,0,1,0,"Quant",14,1,0
+"1296","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.crowd.of.onlookers","a. One thing",0,1,0,0,0,"Coll",16,1,0
+"1300","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.collection.of.coins","a. One thing",0,1,0,0,0,"Coll",20,1,0
+"1301","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.ton.of.ties","a. One thing",0,0,0,0,1,"Meas",21,1,0
+"1302","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","several.pamphlets","a. One thing",0,0,0,1,0,"Quant",22,1,0
+"1303","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1304","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1305","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"1306","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1307","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"1308","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1310","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","more.chips","a. One thing",0,0,0,1,0,"Quant",30,1,0
+"1311","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"1312","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"1313","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.troop.of.preschoolers","a. One thing",0,1,0,0,0,"Coll",33,1,0
+"1314","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"1315","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.lot.of.postcards","a. One thing",0,0,1,0,0,"Meas",35,1,0
+"1316","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.number.of.bags","a. One thing",0,0,1,0,0,"Meas",36,1,0
+"1317","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","a.group.of.llamas","a. One thing",0,1,0,0,0,"Coll",37,1,0
+"1320","R_RJrLysMSUGJwqdP",1,67771,308,27,"English","","No","both.pans","a. One thing",0,0,0,1,0,"Quant",40,1,0
+"1361","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"1362","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1363","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"1364","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1365","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1367","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1368","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1369","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1370","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"1371","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1372","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"1373","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1374","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1376","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1380","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.collection.of.coins","a. One thing",0,1,0,0,0,"Coll",20,1,0
+"1381","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"1382","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1383","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1384","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1385","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"1386","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1387","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"1388","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1390","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"1391","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"1392","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"1393","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"1394","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"1395","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1396","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1397","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1400","R_RKRg1HDXJrwmnCh",1,921248,844,47,"English","n/a","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1441","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.vase.of.cattails","a. One thing",0,0,0,0,1,"FullCont",1,1,0
+"1442","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1443","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"1444","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1445","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1447","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1448","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1449","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1450","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"1451","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.bunch.of.folders","a. One thing",0,0,1,0,0,"Meas",11,1,0
+"1452","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"1453","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1454","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1456","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1460","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"1461","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"1462","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1463","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1464","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.pile.of.pucks","a. One thing",0,1,0,0,0,"Coll",24,1,0
+"1465","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"1466","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1467","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.set.of.dvds","a. One thing",0,1,0,0,0,"Coll",27,1,0
+"1468","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1470","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"1471","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.bin.of.baseballs","a. One thing",0,0,0,1,0,"FullCont",31,1,0
+"1472","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"1473","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.troop.of.preschoolers","a. One thing",0,1,0,0,0,"Coll",33,1,0
+"1474","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"1475","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1476","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1477","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1480","R_W25dx3WeYxlpeff",1,890911,298,43,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
+"1521","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.vase.of.cattails","b. More than one thing",0,0,0,0,1,"FullCont",1,0,1
+"1522","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.variety.of.mugs","b. More than one thing",0,0,1,0,0,"Meas",2,0,1
+"1523","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.pack.of.matches","a. One thing",0,0,0,0,1,"FullCont",3,1,0
+"1524","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","all.pies","b. More than one thing",0,0,0,1,0,"Quant",4,0,1
+"1525","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","many.clocks","b. More than one thing",0,0,0,1,0,"Quant",5,0,1
+"1527","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.heap.of.blankets","b. More than one thing",0,1,0,0,0,"Coll",7,0,1
+"1528","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.smattering.of.magazines","b. More than one thing",0,0,1,0,0,"Meas",8,0,1
+"1529","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","some.paintings","b. More than one thing",0,0,0,1,0,"Quant",9,0,1
+"1530","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.matchbox.of.needles","a. One thing",0,0,0,0,1,"FullCont",10,1,0
+"1531","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.bunch.of.folders","b. More than one thing",0,0,1,0,0,"Meas",11,0,1
+"1532","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.bottle.of.pills","a. One thing",0,0,0,0,1,"FullCont",12,1,0
+"1533","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.stack.of.sandwiches","b. More than one thing",0,1,0,0,0,"Coll",13,0,1
+"1534","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","fewer.people","b. More than one thing",0,0,0,1,0,"Quant",14,0,1
+"1536","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.crowd.of.onlookers","b. More than one thing",0,1,0,0,0,"Coll",16,0,1
+"1540","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.collection.of.coins","b. More than one thing",0,1,0,0,0,"Coll",20,0,1
+"1541","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.ton.of.ties","b. More than one thing",0,0,0,0,1,"Meas",21,0,1
+"1542","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","several.pamphlets","b. More than one thing",0,0,0,1,0,"Quant",22,0,1
+"1543","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","five.baseballs","b. More than one thing",0,0,0,1,0,"Quant",23,0,1
+"1544","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.pile.of.pucks","b. More than one thing",0,1,0,0,0,"Coll",24,0,1
+"1545","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.crate.of.tangerines","a. One thing",0,0,0,0,1,"FullCont",25,1,0
+"1546","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.couple.of.notepads","b. More than one thing",0,0,1,0,0,"Meas",26,0,1
+"1547","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.set.of.dvds","b. More than one thing",0,1,0,0,0,"Coll",27,0,1
+"1548","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.handful.of.cookbooks","b. More than one thing",0,0,1,0,0,"Meas",28,0,1
+"1550","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","more.chips","b. More than one thing",0,0,0,1,0,"Quant",30,0,1
+"1551","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.bin.of.baseballs","b. More than one thing",0,0,0,1,0,"FullCont",31,0,1
+"1552","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.sack.of.potatoes","a. One thing",0,0,0,0,1,"FullCont",32,1,0
+"1553","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.troop.of.preschoolers","b. More than one thing",0,1,0,0,0,"Coll",33,0,1
+"1554","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.tube.of.balls","a. One thing",0,0,0,1,0,"FullCont",34,1,0
+"1555","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.lot.of.postcards","b. More than one thing",0,0,1,0,0,"Meas",35,0,1
+"1556","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.number.of.bags","b. More than one thing",0,0,1,0,0,"Meas",36,0,1
+"1557","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","a.group.of.llamas","b. More than one thing",0,1,0,0,0,"Coll",37,0,1
+"1560","R_Xn9LGat0WlyHEVX",1,87464,407,56,"English","","No","both.pans","b. More than one thing",0,0,0,1,0,"Quant",40,0,1
